@@ -1,17 +1,10 @@
 NO ./texture/1.xpm
 WE ./texture/3.xpm      
-
+SO ./texture/3.xpm
 EA ./texture/4.xpm
 
 F 220,100,0
-C 170,30,250
-
-salut meec
-ouais gros
-             
-papapap
-
-grodddd
+C 170,30,200
 
         1111111111111111111111111
         1000000000110000000000001
